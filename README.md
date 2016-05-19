@@ -1,3 +1,11 @@
-# Getting started with Play (Scala)
+Vanilla Project for Play-Scala. 
 
-This project demonstrate how to create a simple CRUD application with Play.
+Integrated ES6 with Traceur transpiler. And using Jasmine with Karma + Babel + Webpack for testing. 
+
+Run the app the usual way -
+activator run 
+
+Run the tests through npm - 
+npm install
+npm run tests
+
