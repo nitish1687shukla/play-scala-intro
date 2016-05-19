@@ -6,6 +6,6 @@ Run the app the usual way -
 activator run 
 
 Run the tests through npm - 
-npm install
+npm install,
 npm run tests
 
